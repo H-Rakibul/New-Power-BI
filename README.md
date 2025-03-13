@@ -10,7 +10,7 @@ This Power BI project visualizes key sales data, including shipments by country 
 - **Sum of Amount by Year, Quarter, Month, and Product** 📉: A waterfall chart depicting revenue changes by product.
 
 ## 📂 Dataset
-The dataset used for this project can be found [here](#).
+The dataset used for this project can be found here (https://github.com/H-Rakibul/New-Power-BI/raw/refs/heads/main/sample-data_creating-BI.xlsx).
 
 ## 📌 Technologies Used
 - **Power BI** for data visualization
